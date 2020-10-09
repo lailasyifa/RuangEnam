@@ -44,8 +44,8 @@ body {
 .fa {
   margin-right: 16px
 }
-.card {
-  height:500px
+.card .container {
+  height:200px
 }
 .card img {
   width:100%;
